@@ -54,5 +54,11 @@
     <ClCompile Include="recursion_DP\472_ConcatenatedWords\recursion.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="recursion_DP\198_houseRobber\dp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="recursion_DP\198_houseRobber\recursion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

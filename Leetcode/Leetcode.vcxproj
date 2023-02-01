@@ -138,6 +138,8 @@
     <ClCompile Include="heap\2542_minsubsequenceScore\min_heap.cpp" />
     <ClCompile Include="recursion_DP\1626_teamWithNoConflicts\dp.cpp" />
     <ClCompile Include="recursion_DP\1626_teamWithNoConflicts\recursion.cpp" />
+    <ClCompile Include="recursion_DP\198_houseRobber\dp.cpp" />
+    <ClCompile Include="recursion_DP\198_houseRobber\recursion.cpp" />
     <ClCompile Include="recursion_DP\472_ConcatenatedWords\recursion.cpp" />
     <ClCompile Include="sweepline\452_burstballoons\sweepline.cpp" />
   </ItemGroup>
