@@ -60,5 +60,31 @@
     <ClCompile Include="recursion_DP\198_houseRobber\recursion.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="graph\topological_sort\802_findSafeState\dfs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graph\topological_sort\802_findSafeState\bfs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graph\other\1377_frogposition\dfs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graph\topological_sort\2115_findAllPossibleRecipe\dfs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graph\topological_sort\2115_findAllPossibleRecipe\bfs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graph\topological_sort\913_mouseAndCat\DFS_Classical_Mistake\dfs_mistake_Walkaround.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graph\topological_sort\913_mouseAndCat\dfs_walkaround.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\Desktop\leetcode\913_dfs.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>

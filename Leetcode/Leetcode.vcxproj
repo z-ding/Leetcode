@@ -130,9 +130,16 @@
     <ClCompile Include="doublyLinkedList\460_lfuCache\selfbuildlist.cpp" />
     <ClCompile Include="doublyLinkedList\460_lfuCache\stllist.cpp" />
     <ClCompile Include="graph\longest_path_tree\2246_longestPathWithDifferenctChar\dfs.cpp" />
+    <ClCompile Include="graph\other\1377_frogposition\dfs.cpp" />
     <ClCompile Include="graph\shortest_path\743._NetworkDelayTime\dijkstra.cpp" />
     <ClCompile Include="graph\shortest_path\787_CheapestFlightsWithinKStops\bfs.cpp" />
     <ClCompile Include="graph\shortest_path\787_CheapestFlightsWithinKStops\dfs_pruning.cpp" />
+    <ClCompile Include="graph\topological_sort\2115_findAllPossibleRecipe\bfs.cpp" />
+    <ClCompile Include="graph\topological_sort\2115_findAllPossibleRecipe\dfs.cpp" />
+    <ClCompile Include="graph\topological_sort\802_findSafeState\bfs.cpp" />
+    <ClCompile Include="graph\topological_sort\802_findSafeState\dfs.cpp" />
+    <ClCompile Include="graph\topological_sort\913_mouseAndCat\DFS_Classical_Mistake\dfs_mistake_Walkaround.cpp" />
+    <ClCompile Include="graph\topological_sort\913_mouseAndCat\dfs_walkaround.cpp" />
     <ClCompile Include="graph\unionfind\2421_numberOfGoodPaths\dfs.cpp" />
     <ClCompile Include="graph\unionfind\2421_numberOfGoodPaths\unionfind.cpp" />
     <ClCompile Include="heap\2542_minsubsequenceScore\min_heap.cpp" />
@@ -142,6 +149,9 @@
     <ClCompile Include="recursion_DP\198_houseRobber\recursion.cpp" />
     <ClCompile Include="recursion_DP\472_ConcatenatedWords\recursion.cpp" />
     <ClCompile Include="sweepline\452_burstballoons\sweepline.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\Desktop\leetcode\913_dfs.jpg" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
