@@ -140,7 +140,6 @@
     <ClCompile Include="graph\topological_sort\802_findSafeState\dfs.cpp" />
     <ClCompile Include="graph\topological_sort\913_mouseAndCat\DFS_Classical_Mistake\dfs_mistake_Walkaround.cpp" />
     <ClCompile Include="graph\topological_sort\913_mouseAndCat\dfs_walkaround.cpp" />
-    <ClCompile Include="graph\unionfind\2421_numberOfGoodPaths\dfs.cpp" />
     <ClCompile Include="graph\unionfind\2421_numberOfGoodPaths\unionfind.cpp" />
     <ClCompile Include="heap\2542_minsubsequenceScore\min_heap.cpp" />
     <ClCompile Include="recursion_DP\1626_teamWithNoConflicts\dp.cpp" />

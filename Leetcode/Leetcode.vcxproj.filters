@@ -30,9 +30,6 @@
     <ClCompile Include="graph\unionfind\2421_numberOfGoodPaths\unionfind.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="graph\unionfind\2421_numberOfGoodPaths\dfs.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="doublyLinkedList\460_lfuCache\selfbuildlist.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
