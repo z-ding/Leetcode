@@ -1,6 +1,6 @@
 //mark state as 0 for the first visit, mark as draw if a cycle is detected
 //Problem: a winning route can be discovered after the draw, causing previous return value / detected cycle to be incorrect.
-//e.g. the code below passed a simple test case [[2],[2,4],[0,1,3],[2,4],[1,3]]
+//e.g. the code below passed a simple test case [[2],[2,4],[0,1,3],[2,4],[1,3]] (visualization in 913_dfs.jpg)
 class Solution {
 public:
     vector<vector<vector<int>>> state; //mouse position, cat position, whose turn
