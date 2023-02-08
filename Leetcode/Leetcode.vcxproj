@@ -134,6 +134,7 @@
     <ClCompile Include="graph\shortest_path\743._NetworkDelayTime\dijkstra.cpp" />
     <ClCompile Include="graph\shortest_path\787_CheapestFlightsWithinKStops\bfs.cpp" />
     <ClCompile Include="graph\shortest_path\787_CheapestFlightsWithinKStops\dfs_pruning.cpp" />
+    <ClCompile Include="graph\shortest_path\847_shortestPathToAllNode\bfs_bit.cpp" />
     <ClCompile Include="graph\topological_sort\2115_findAllPossibleRecipe\bfs.cpp" />
     <ClCompile Include="graph\topological_sort\2115_findAllPossibleRecipe\dfs.cpp" />
     <ClCompile Include="graph\topological_sort\802_findSafeState\bfs.cpp" />

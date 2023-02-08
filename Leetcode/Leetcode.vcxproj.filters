@@ -78,6 +78,9 @@
     <ClCompile Include="graph\topological_sort\913_mouseAndCat\dfs_walkaround.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="graph\shortest_path\847_shortestPathToAllNode\bfs_bit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\..\Desktop\leetcode\913_dfs.jpg">
