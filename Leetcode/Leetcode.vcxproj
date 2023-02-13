@@ -127,10 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="binarySearch\2555_maxWinFromTwoSeg\binarySearch.cpp" />
+    <ClCompile Include="binarySearch\2563_countNumOfFairPairs\binarySearch.cpp" />
     <ClCompile Include="doublyLinkedList\460_lfuCache\selfbuildlist.cpp" />
     <ClCompile Include="doublyLinkedList\460_lfuCache\stllist.cpp" />
     <ClCompile Include="graph\longest_path_tree\2246_longestPathWithDifferenctChar\dfs.cpp" />
     <ClCompile Include="graph\other\1377_frogposition\dfs.cpp" />
+    <ClCompile Include="graph\other\2477_minFuelCost\dfs.cpp" />
+    <ClCompile Include="graph\other\2477_minFuelCost\indegree_bfsFromLeaf.cpp" />
+    <ClCompile Include="graph\shortest_path\126_wordLadderII\wildcard_bfs.cpp" />
     <ClCompile Include="graph\shortest_path\743._NetworkDelayTime\dijkstra.cpp" />
     <ClCompile Include="graph\shortest_path\787_CheapestFlightsWithinKStops\bfs.cpp" />
     <ClCompile Include="graph\shortest_path\787_CheapestFlightsWithinKStops\dfs_pruning.cpp" />
@@ -139,6 +144,7 @@
     <ClCompile Include="graph\topological_sort\2115_findAllPossibleRecipe\dfs.cpp" />
     <ClCompile Include="graph\topological_sort\802_findSafeState\bfs.cpp" />
     <ClCompile Include="graph\topological_sort\802_findSafeState\dfs.cpp" />
+    <ClCompile Include="graph\topological_sort\913_mouseAndCat\bfs_coloring.cpp" />
     <ClCompile Include="graph\topological_sort\913_mouseAndCat\DFS_Classical_Mistake\dfs_mistake_Walkaround.cpp" />
     <ClCompile Include="graph\topological_sort\913_mouseAndCat\dfs_walkaround.cpp" />
     <ClCompile Include="graph\unionfind\2421_numberOfGoodPaths\unionfind.cpp" />
@@ -147,6 +153,9 @@
     <ClCompile Include="recursion_DP\1626_teamWithNoConflicts\recursion.cpp" />
     <ClCompile Include="recursion_DP\198_houseRobber\dp.cpp" />
     <ClCompile Include="recursion_DP\198_houseRobber\recursion.cpp" />
+    <ClCompile Include="recursion_DP\213_houseRobberII\dp.cpp" />
+    <ClCompile Include="recursion_DP\2560_houseRobberIV\dp_binarySearch.cpp" />
+    <ClCompile Include="recursion_DP\337_houseRobberIII\recursion.cpp" />
     <ClCompile Include="recursion_DP\472_ConcatenatedWords\recursion.cpp" />
     <ClCompile Include="sweepline\452_burstballoons\sweepline.cpp" />
   </ItemGroup>
