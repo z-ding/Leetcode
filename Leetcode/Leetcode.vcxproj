@@ -149,6 +149,7 @@
     <ClCompile Include="graph\topological_sort\913_mouseAndCat\dfs_walkaround.cpp" />
     <ClCompile Include="graph\unionfind\2421_numberOfGoodPaths\unionfind.cpp" />
     <ClCompile Include="heap\2542_minsubsequenceScore\min_heap.cpp" />
+    <ClCompile Include="recursion_DP\MaxSubArray\1567_maxSubArrayPositiveProduct\dp.cpp" />
     <ClCompile Include="recursion_DP\1626_teamWithNoConflicts\dp.cpp" />
     <ClCompile Include="recursion_DP\1626_teamWithNoConflicts\recursion.cpp" />
     <ClCompile Include="recursion_DP\198_houseRobber\dp.cpp" />
@@ -157,6 +158,7 @@
     <ClCompile Include="recursion_DP\2560_houseRobberIV\dp_binarySearch.cpp" />
     <ClCompile Include="recursion_DP\337_houseRobberIII\recursion.cpp" />
     <ClCompile Include="recursion_DP\472_ConcatenatedWords\recursion.cpp" />
+    <ClCompile Include="recursion_DP\MaxSubArray\53_maxSumSubArray\dp.cpp" />
     <ClCompile Include="sweepline\452_burstballoons\sweepline.cpp" />
   </ItemGroup>
   <ItemGroup>

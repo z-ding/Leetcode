@@ -108,6 +108,12 @@
     <ClCompile Include="graph\other\2477_minFuelCost\dfs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="recursion_DP\MaxSubArray\1567_maxSubArrayPositiveProduct\dp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="recursion_DP\MaxSubArray\53_maxSumSubArray\dp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\..\Desktop\leetcode\913_dfs.jpg">
