@@ -149,16 +149,22 @@
     <ClCompile Include="graph\topological_sort\913_mouseAndCat\dfs_walkaround.cpp" />
     <ClCompile Include="graph\unionfind\2421_numberOfGoodPaths\unionfind.cpp" />
     <ClCompile Include="heap\2542_minsubsequenceScore\min_heap.cpp" />
-    <ClCompile Include="recursion_DP\MaxSubArray\1567_maxSubArrayPositiveProduct\dp.cpp" />
-    <ClCompile Include="recursion_DP\1626_teamWithNoConflicts\dp.cpp" />
-    <ClCompile Include="recursion_DP\1626_teamWithNoConflicts\recursion.cpp" />
-    <ClCompile Include="recursion_DP\198_houseRobber\dp.cpp" />
-    <ClCompile Include="recursion_DP\198_houseRobber\recursion.cpp" />
-    <ClCompile Include="recursion_DP\213_houseRobberII\dp.cpp" />
-    <ClCompile Include="recursion_DP\2560_houseRobberIV\dp_binarySearch.cpp" />
-    <ClCompile Include="recursion_DP\337_houseRobberIII\recursion.cpp" />
+    <ClCompile Include="recursion_DP\BuySellStockSeries\122_BuySellII\greedy.cpp" />
+    <ClCompile Include="recursion_DP\BuySellStockSeries\309_BuySellWithCooldown\dp.cpp" />
+    <ClCompile Include="recursion_DP\BuySellStockSeries\714_BuySellWithTransacFee\recursion_dp.cpp" />
+    <ClCompile Include="recursion_DP\BuySellStockSeries\121_BuySell\greedy.cpp" />
+    <ClCompile Include="recursion_DP\matrixSumProblems\304_RangeSum\presum.cpp" />
+    <ClCompile Include="recursion_DP\MaxSubArrayProblems\1567_maxSubArrayPositiveProduct\dp.cpp" />
+    <ClCompile Include="recursion_DP\MaxSubArrayProblems\1626_teamWithNoConflicts\dp.cpp" />
+    <ClCompile Include="recursion_DP\MaxSubArrayProblems\1626_teamWithNoConflicts\recursion.cpp" />
+    <ClCompile Include="recursion_DP\HouseRobberSeries\198_houseRobber\dp.cpp" />
+    <ClCompile Include="recursion_DP\HouseRobberSeries\198_houseRobber\recursion.cpp" />
+    <ClCompile Include="recursion_DP\HouseRobberSeries\213_houseRobberII\dp.cpp" />
+    <ClCompile Include="recursion_DP\HouseRobberSeries\2560_houseRobberIV\dp_binarySearch.cpp" />
+    <ClCompile Include="recursion_DP\HouseRobberSeries\337_houseRobberIII\recursion.cpp" />
     <ClCompile Include="recursion_DP\472_ConcatenatedWords\recursion.cpp" />
-    <ClCompile Include="recursion_DP\MaxSubArray\53_maxSumSubArray\dp.cpp" />
+    <ClCompile Include="recursion_DP\MaxSubArrayProblems\53_maxSumSubArray\dp.cpp" />
+    <ClCompile Include="recursion_DP\MaxSubArrayProblems\918.MaximumSumCircularSubarray\dp.cpp" />
     <ClCompile Include="sweepline\452_burstballoons\sweepline.cpp" />
   </ItemGroup>
   <ItemGroup>
