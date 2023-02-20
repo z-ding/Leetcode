@@ -132,6 +132,24 @@
     <ClCompile Include="recursion_DP\matrixSumProblems\304_RangeSum\presum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="recursion_DP\PalindromeProblems\516_longestPalSubseq\recursion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="recursion_DP\PalindromeProblems\5_longestPalSubstr\dp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="recursion_DP\PalindromeProblems\131_palPartittion\backtracking.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graph\binaryTree\226_InvertBT\postorder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graph\binaryTree\783_minDisBST\inorder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="queue\622_designCircularQueue\circularQueue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\..\Desktop\leetcode\913_dfs.jpg">
