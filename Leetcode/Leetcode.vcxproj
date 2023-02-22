@@ -127,8 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="binarySearch\1011_CapShiftpackages\bsearch.cpp" />
     <ClCompile Include="binarySearch\2555_maxWinFromTwoSeg\binarySearch.cpp" />
     <ClCompile Include="binarySearch\2563_countNumOfFairPairs\binarySearch.cpp" />
+    <ClCompile Include="binarySearch\540_SingleELemInSortedArr\bsaerch.cpp" />
     <ClCompile Include="doublyLinkedList\460_lfuCache\selfbuildlist.cpp" />
     <ClCompile Include="doublyLinkedList\460_lfuCache\stllist.cpp" />
     <ClCompile Include="graph\binaryTree\226_InvertBT\postorder.cpp" />
@@ -149,9 +151,13 @@
     <ClCompile Include="graph\topological_sort\913_mouseAndCat\bfs_coloring.cpp" />
     <ClCompile Include="graph\topological_sort\913_mouseAndCat\DFS_Classical_Mistake\dfs_mistake_Walkaround.cpp" />
     <ClCompile Include="graph\topological_sort\913_mouseAndCat\dfs_walkaround.cpp" />
+    <ClCompile Include="graph\trie\1268_searchSuggesttion\trie.cpp" />
+    <ClCompile Include="graph\trie\208_implementTrie\trie.cpp" />
     <ClCompile Include="graph\unionfind\2421_numberOfGoodPaths\unionfind.cpp" />
     <ClCompile Include="heap\2542_minsubsequenceScore\min_heap.cpp" />
     <ClCompile Include="queue\622_designCircularQueue\circularQueue.cpp" />
+    <ClCompile Include="recursion_DP\2572_SquareFreeSubseq\recursion.cpp" />
+    <ClCompile Include="recursion_DP\2572_SquareFreeSubseq\recursion_bit.cpp" />
     <ClCompile Include="recursion_DP\BuySellStockSeries\122_BuySellII\greedy.cpp" />
     <ClCompile Include="recursion_DP\BuySellStockSeries\309_BuySellWithCooldown\dp.cpp" />
     <ClCompile Include="recursion_DP\BuySellStockSeries\714_BuySellWithTransacFee\recursion_dp.cpp" />
@@ -166,11 +172,13 @@
     <ClCompile Include="recursion_DP\HouseRobberSeries\2560_houseRobberIV\dp_binarySearch.cpp" />
     <ClCompile Include="recursion_DP\HouseRobberSeries\337_houseRobberIII\recursion.cpp" />
     <ClCompile Include="recursion_DP\472_ConcatenatedWords\recursion.cpp" />
+    <ClCompile Include="recursion_DP\MaxSubArrayProblems\376_wiggleSubseq\recursion.cpp" />
     <ClCompile Include="recursion_DP\MaxSubArrayProblems\53_maxSumSubArray\dp.cpp" />
     <ClCompile Include="recursion_DP\MaxSubArrayProblems\918.MaximumSumCircularSubarray\dp.cpp" />
     <ClCompile Include="recursion_DP\PalindromeProblems\131_palPartittion\backtracking.cpp" />
     <ClCompile Include="recursion_DP\PalindromeProblems\516_longestPalSubseq\recursion.cpp" />
     <ClCompile Include="recursion_DP\PalindromeProblems\5_longestPalSubstr\dp.cpp" />
+    <ClCompile Include="graph\segmentTree\307_rangeSumQuery\SegTree.cpp" />
     <ClCompile Include="sweepline\452_burstballoons\sweepline.cpp" />
   </ItemGroup>
   <ItemGroup>
