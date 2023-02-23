@@ -155,6 +155,9 @@
     <ClCompile Include="graph\trie\208_implementTrie\trie.cpp" />
     <ClCompile Include="graph\unionfind\2421_numberOfGoodPaths\unionfind.cpp" />
     <ClCompile Include="heap\2542_minsubsequenceScore\min_heap.cpp" />
+    <ClCompile Include="heap\502_IPO\twoHeaps.cpp" />
+    <ClCompile Include="monotonicStackQueue\503_nextGreaterIntCircular\monostack.cpp" />
+    <ClCompile Include="monotonicStackQueue\739_dailyTemp\monoStack.cpp" />
     <ClCompile Include="queue\622_designCircularQueue\circularQueue.cpp" />
     <ClCompile Include="recursion_DP\2572_SquareFreeSubseq\recursion.cpp" />
     <ClCompile Include="recursion_DP\2572_SquareFreeSubseq\recursion_bit.cpp" />
