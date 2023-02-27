@@ -21,7 +21,7 @@
     <ClCompile Include="graph\shortest_path\787_CheapestFlightsWithinKStops\bfs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="graph\shortest_path\743._NetworkDelayTime\dijkstra.cpp">
+    <ClCompile Include="graph\shortest_path\Dijkstra\743._NetworkDelayTime\dijkstra.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="graph\longest_path_tree\2246_longestPathWithDifferenctChar\dfs.cpp">
@@ -132,13 +132,13 @@
     <ClCompile Include="recursion_DP\matrixSumProblems\304_RangeSum\presum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="recursion_DP\PalindromeProblems\516_longestPalSubseq\recursion.cpp">
+    <ClCompile Include="recursion_DP\PalindromeSubseqProblems\516_longestPalSubseq\recursion.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="recursion_DP\PalindromeProblems\5_longestPalSubstr\dp.cpp">
+    <ClCompile Include="recursion_DP\PalindromeSubseqProblems\5_longestPalSubstr\dp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="recursion_DP\PalindromeProblems\131_palPartittion\backtracking.cpp">
+    <ClCompile Include="recursion_DP\PalindromeSubseqProblems\131_palPartittion\backtracking.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="graph\binaryTree\226_InvertBT\postorder.cpp">
@@ -159,7 +159,7 @@
     <ClCompile Include="graph\segmentTree\307_rangeSumQuery\SegTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="recursion_DP\MaxSubArrayProblems\376_wiggleSubseq\recursion.cpp">
+    <ClCompile Include="recursion_DP\PalindromeSubseqProblems\376_wiggleSubseq\recursion.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="binarySearch\1011_CapShiftpackages\bsearch.cpp">
@@ -181,6 +181,33 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="heap\502_IPO\twoHeaps.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sweepline\1094_carPooling\bruteForce.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sweepline\1094_carPooling\minHeap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sweepline\1094_carPooling\sweepline.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="recursion_DP\PalindromeSubseqProblems\392_isSubseq\dp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="recursion_DP\PalindromeSubseqProblems\1143_lcs\dp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="recursion_DP\PalindromeSubseqProblems\718_longestCommcomSubarray\recursionDP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="recursion_DP\PalindromeSubseqProblems\1092_shortestsuperseq\dp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="recursion_DP\PalindromeSubseqProblems\1092_shortestsuperseq\bruteforce_tle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graph\shortest_path\Dijkstra\1631_MinEffort\dijWithPrevRoute.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -140,7 +140,8 @@
     <ClCompile Include="graph\other\2477_minFuelCost\dfs.cpp" />
     <ClCompile Include="graph\other\2477_minFuelCost\indegree_bfsFromLeaf.cpp" />
     <ClCompile Include="graph\shortest_path\126_wordLadderII\wildcard_bfs.cpp" />
-    <ClCompile Include="graph\shortest_path\743._NetworkDelayTime\dijkstra.cpp" />
+    <ClCompile Include="graph\shortest_path\Dijkstra\1631_MinEffort\dijWithPrevRoute.cpp" />
+    <ClCompile Include="graph\shortest_path\Dijkstra\743._NetworkDelayTime\dijkstra.cpp" />
     <ClCompile Include="graph\shortest_path\787_CheapestFlightsWithinKStops\bfs.cpp" />
     <ClCompile Include="graph\shortest_path\787_CheapestFlightsWithinKStops\dfs_pruning.cpp" />
     <ClCompile Include="graph\shortest_path\847_shortestPathToAllNode\bfs_bit.cpp" />
@@ -154,6 +155,14 @@
     <ClCompile Include="graph\trie\1268_searchSuggesttion\trie.cpp" />
     <ClCompile Include="graph\trie\208_implementTrie\trie.cpp" />
     <ClCompile Include="graph\unionfind\2421_numberOfGoodPaths\unionfind.cpp" />
+    <ClCompile Include="recursion_DP\PalindromeSubseqProblems\1092_shortestsuperseq\bruteforce_tle.cpp" />
+    <ClCompile Include="recursion_DP\PalindromeSubseqProblems\1092_shortestsuperseq\dp.cpp" />
+    <ClCompile Include="recursion_DP\PalindromeSubseqProblems\1143_lcs\dp.cpp" />
+    <ClCompile Include="recursion_DP\PalindromeSubseqProblems\392_isSubseq\dp.cpp" />
+    <ClCompile Include="recursion_DP\PalindromeSubseqProblems\718_longestCommcomSubarray\recursionDP.cpp" />
+    <ClCompile Include="sweepline\1094_carPooling\bruteForce.cpp" />
+    <ClCompile Include="sweepline\1094_carPooling\minHeap.cpp" />
+    <ClCompile Include="sweepline\1094_carPooling\sweepline.cpp" />
     <ClCompile Include="heap\2542_minsubsequenceScore\min_heap.cpp" />
     <ClCompile Include="heap\502_IPO\twoHeaps.cpp" />
     <ClCompile Include="monotonicStackQueue\503_nextGreaterIntCircular\monostack.cpp" />
@@ -175,12 +184,12 @@
     <ClCompile Include="recursion_DP\HouseRobberSeries\2560_houseRobberIV\dp_binarySearch.cpp" />
     <ClCompile Include="recursion_DP\HouseRobberSeries\337_houseRobberIII\recursion.cpp" />
     <ClCompile Include="recursion_DP\472_ConcatenatedWords\recursion.cpp" />
-    <ClCompile Include="recursion_DP\MaxSubArrayProblems\376_wiggleSubseq\recursion.cpp" />
+    <ClCompile Include="recursion_DP\PalindromeSubseqProblems\376_wiggleSubseq\recursion.cpp" />
     <ClCompile Include="recursion_DP\MaxSubArrayProblems\53_maxSumSubArray\dp.cpp" />
     <ClCompile Include="recursion_DP\MaxSubArrayProblems\918.MaximumSumCircularSubarray\dp.cpp" />
-    <ClCompile Include="recursion_DP\PalindromeProblems\131_palPartittion\backtracking.cpp" />
-    <ClCompile Include="recursion_DP\PalindromeProblems\516_longestPalSubseq\recursion.cpp" />
-    <ClCompile Include="recursion_DP\PalindromeProblems\5_longestPalSubstr\dp.cpp" />
+    <ClCompile Include="recursion_DP\PalindromeSubseqProblems\131_palPartittion\backtracking.cpp" />
+    <ClCompile Include="recursion_DP\PalindromeSubseqProblems\516_longestPalSubseq\recursion.cpp" />
+    <ClCompile Include="recursion_DP\PalindromeSubseqProblems\5_longestPalSubstr\dp.cpp" />
     <ClCompile Include="graph\segmentTree\307_rangeSumQuery\SegTree.cpp" />
     <ClCompile Include="sweepline\452_burstballoons\sweepline.cpp" />
   </ItemGroup>
