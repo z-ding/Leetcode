@@ -210,6 +210,18 @@
     <ClCompile Include="graph\shortest_path\Dijkstra\1631_MinEffort\dijWithPrevRoute.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="graph\shortest_path\Dijkstra\2577_minTime\dijkstra.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graph\trie\212_wordSearchII\trie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graph\trie\212_wordSearchII\trieJs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graph\segmentTree\732_myCalIII\SegTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\..\Desktop\leetcode\913_dfs.jpg">

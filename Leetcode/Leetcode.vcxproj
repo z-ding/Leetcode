@@ -139,8 +139,10 @@
     <ClCompile Include="graph\other\1377_frogposition\dfs.cpp" />
     <ClCompile Include="graph\other\2477_minFuelCost\dfs.cpp" />
     <ClCompile Include="graph\other\2477_minFuelCost\indegree_bfsFromLeaf.cpp" />
+    <ClCompile Include="graph\segmentTree\732_myCalIII\SegTree.cpp" />
     <ClCompile Include="graph\shortest_path\126_wordLadderII\wildcard_bfs.cpp" />
     <ClCompile Include="graph\shortest_path\Dijkstra\1631_MinEffort\dijWithPrevRoute.cpp" />
+    <ClCompile Include="graph\shortest_path\Dijkstra\2577_minTime\dijkstra.cpp" />
     <ClCompile Include="graph\shortest_path\Dijkstra\743._NetworkDelayTime\dijkstra.cpp" />
     <ClCompile Include="graph\shortest_path\787_CheapestFlightsWithinKStops\bfs.cpp" />
     <ClCompile Include="graph\shortest_path\787_CheapestFlightsWithinKStops\dfs_pruning.cpp" />
@@ -154,6 +156,8 @@
     <ClCompile Include="graph\topological_sort\913_mouseAndCat\dfs_walkaround.cpp" />
     <ClCompile Include="graph\trie\1268_searchSuggesttion\trie.cpp" />
     <ClCompile Include="graph\trie\208_implementTrie\trie.cpp" />
+    <ClCompile Include="graph\trie\212_wordSearchII\trie.cpp" />
+    <ClCompile Include="graph\trie\212_wordSearchII\trieJs.cpp" />
     <ClCompile Include="graph\unionfind\2421_numberOfGoodPaths\unionfind.cpp" />
     <ClCompile Include="recursion_DP\PalindromeSubseqProblems\1092_shortestsuperseq\bruteforce_tle.cpp" />
     <ClCompile Include="recursion_DP\PalindromeSubseqProblems\1092_shortestsuperseq\dp.cpp" />
