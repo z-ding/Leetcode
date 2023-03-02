@@ -128,6 +128,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="binarySearch\1011_CapShiftpackages\bsearch.cpp" />
+    <ClCompile Include="binarySearch\1760_maxBallsInBag\bsearch.cpp" />
+    <ClCompile Include="binarySearch\2080_rangebasedFreq\binarySearchUpperLowerBound.cpp" />
     <ClCompile Include="binarySearch\2555_maxWinFromTwoSeg\binarySearch.cpp" />
     <ClCompile Include="binarySearch\2563_countNumOfFairPairs\binarySearch.cpp" />
     <ClCompile Include="binarySearch\540_SingleELemInSortedArr\bsaerch.cpp" />
@@ -159,6 +161,8 @@
     <ClCompile Include="graph\trie\212_wordSearchII\trie.cpp" />
     <ClCompile Include="graph\trie\212_wordSearchII\trieJs.cpp" />
     <ClCompile Include="graph\unionfind\2421_numberOfGoodPaths\unionfind.cpp" />
+    <ClCompile Include="recursion_DP\2585_waysEarnPoints\recursion.cpp" />
+    <ClCompile Include="recursion_DP\464_canIWin\dfs.cpp" />
     <ClCompile Include="recursion_DP\PalindromeSubseqProblems\1092_shortestsuperseq\bruteforce_tle.cpp" />
     <ClCompile Include="recursion_DP\PalindromeSubseqProblems\1092_shortestsuperseq\dp.cpp" />
     <ClCompile Include="recursion_DP\PalindromeSubseqProblems\1143_lcs\dp.cpp" />
@@ -195,7 +199,14 @@
     <ClCompile Include="recursion_DP\PalindromeSubseqProblems\516_longestPalSubseq\recursion.cpp" />
     <ClCompile Include="recursion_DP\PalindromeSubseqProblems\5_longestPalSubstr\dp.cpp" />
     <ClCompile Include="graph\segmentTree\307_rangeSumQuery\SegTree.cpp" />
+    <ClCompile Include="sweepline\2584_Coprime\linesweep.cpp" />
+    <ClCompile Include="sweepline\2584_Coprime\recursion.cpp" />
+    <ClCompile Include="sweepline\391_perfectRectangle\sweep.cpp" />
     <ClCompile Include="sweepline\452_burstballoons\sweepline.cpp" />
+    <ClCompile Include="sweepline\intervalProblems\1288_coveredInterval\sweep.cpp" />
+    <ClCompile Include="sweepline\intervalProblems\436_findRightInterval\map.cpp" />
+    <ClCompile Include="sweepline\intervalProblems\453_nonOverlapInterval\greedy.cpp" />
+    <ClCompile Include="sweepline\intervalProblems\986_overlappingInteval\linesweep.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\..\Desktop\leetcode\913_dfs.jpg" />
