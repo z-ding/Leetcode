@@ -21,7 +21,7 @@
     <ClCompile Include="graph\shortest_path\787_CheapestFlightsWithinKStops\bfs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="graph\shortest_path\Dijkstra\743._NetworkDelayTime\dijkstra.cpp">
+    <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\743._NetworkDelayTime\dijkstra.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="graph\longest_path_tree\2246_longestPathWithDifferenctChar\dfs.cpp">
@@ -207,10 +207,10 @@
     <ClCompile Include="recursion_DP\PalindromeSubseqProblems\1092_shortestsuperseq\bruteforce_tle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="graph\shortest_path\Dijkstra\1631_MinEffort\dijWithPrevRoute.cpp">
+    <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\1631_MinEffort\dijWithPrevRoute.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="graph\shortest_path\Dijkstra\2577_minTime\dijkstra.cpp">
+    <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\2577_minTime\dijkstra.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="graph\trie\212_wordSearchII\trie.cpp">
@@ -292,6 +292,21 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="heap\630_courseSchedule\heap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graph\shortest_path\2608_shotestCycleUndiGraph\Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\1334_Mindistallcities\FloydWarshall.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\1334_Mindistallcities\dikstra.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graph\shortest_path\2617_minNumberVisitedCells\bfs_set.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\1368_minOpReachBottom\dijkstra.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

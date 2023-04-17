@@ -146,9 +146,14 @@
     <ClCompile Include="graph\segmentTree\493_reversePairs\segtree.cpp" />
     <ClCompile Include="graph\segmentTree\732_myCalIII\SegTree.cpp" />
     <ClCompile Include="graph\shortest_path\126_wordLadderII\wildcard_bfs.cpp" />
-    <ClCompile Include="graph\shortest_path\Dijkstra\1631_MinEffort\dijWithPrevRoute.cpp" />
-    <ClCompile Include="graph\shortest_path\Dijkstra\2577_minTime\dijkstra.cpp" />
-    <ClCompile Include="graph\shortest_path\Dijkstra\743._NetworkDelayTime\dijkstra.cpp" />
+    <ClCompile Include="graph\shortest_path\2608_shotestCycleUndiGraph\Source.cpp" />
+    <ClCompile Include="graph\shortest_path\2617_minNumberVisitedCells\bfs_set.cpp" />
+    <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\1334_Mindistallcities\dikstra.cpp" />
+    <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\1334_Mindistallcities\FloydWarshall.cpp" />
+    <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\1368_minOpReachBottom\dijkstra.cpp" />
+    <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\1631_MinEffort\dijWithPrevRoute.cpp" />
+    <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\2577_minTime\dijkstra.cpp" />
+    <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\743._NetworkDelayTime\dijkstra.cpp" />
     <ClCompile Include="graph\shortest_path\787_CheapestFlightsWithinKStops\bfs.cpp" />
     <ClCompile Include="graph\shortest_path\787_CheapestFlightsWithinKStops\dfs_pruning.cpp" />
     <ClCompile Include="graph\shortest_path\847_shortestPathToAllNode\bfs_bit.cpp" />
