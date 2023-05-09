@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -143,6 +143,7 @@
     <ClCompile Include="graph\other\1377_frogposition\dfs.cpp" />
     <ClCompile Include="graph\other\2477_minFuelCost\dfs.cpp" />
     <ClCompile Include="graph\other\2477_minFuelCost\indegree_bfsFromLeaf.cpp" />
+    <ClCompile Include="graph\segmentTree\327_countRangeSum\segTree.cpp" />
     <ClCompile Include="graph\segmentTree\493_reversePairs\segtree.cpp" />
     <ClCompile Include="graph\segmentTree\732_myCalIII\SegTree.cpp" />
     <ClCompile Include="graph\shortest_path\126_wordLadderII\wildcard_bfs.cpp" />
@@ -153,6 +154,8 @@
     <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\1368_minOpReachBottom\dijkstra.cpp" />
     <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\1631_MinEffort\dijWithPrevRoute.cpp" />
     <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\2577_minTime\dijkstra.cpp" />
+    <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\2646_minCostTrips\dijkstra_dp.cpp" />
+    <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\2662_shortestPthSpecialRoads\dijkstra.cpp" />
     <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\743._NetworkDelayTime\dijkstra.cpp" />
     <ClCompile Include="graph\shortest_path\787_CheapestFlightsWithinKStops\bfs.cpp" />
     <ClCompile Include="graph\shortest_path\787_CheapestFlightsWithinKStops\dfs_pruning.cpp" />
@@ -168,12 +171,15 @@
     <ClCompile Include="graph\trie\208_implementTrie\trie.cpp" />
     <ClCompile Include="graph\trie\212_wordSearchII\trie.cpp" />
     <ClCompile Include="graph\trie\212_wordSearchII\trieJs.cpp" />
+    <ClCompile Include="graph\unionfind\1579_MaxEdgeRemove_Template\UF.cpp" />
+    <ClCompile Include="graph\unionfind\1697_pathQueries\unionfind.cpp" />
     <ClCompile Include="graph\unionfind\2421_numberOfGoodPaths\unionfind.cpp" />
     <ClCompile Include="graph\unionfind\778_swinInRisingWater\unionFind.cpp" />
     <ClCompile Include="heap\355_designTwitter\heap.cpp" />
     <ClCompile Include="heap\378_KthSmallInSortedMat\heap.cpp" />
     <ClCompile Include="heap\621_taskScheduler\twoHeaps.cpp" />
     <ClCompile Include="heap\630_courseSchedule\heap.cpp" />
+    <ClCompile Include="recursion_DP\1349_maxStudentTakeExam\dp_Bitmask.cpp" />
     <ClCompile Include="recursion_DP\2585_waysEarnPoints\recursion.cpp" />
     <ClCompile Include="recursion_DP\464_canIWin\dfs.cpp" />
     <ClCompile Include="recursion_DP\MaxSubArrayProblems\395_longestSubstringRepeatedchar\recursion1.cpp" />
@@ -184,6 +190,7 @@
     <ClCompile Include="recursion_DP\PalindromeSubseqProblems\1143_lcs\dp.cpp" />
     <ClCompile Include="recursion_DP\PalindromeSubseqProblems\392_isSubseq\dp.cpp" />
     <ClCompile Include="recursion_DP\PalindromeSubseqProblems\718_longestCommcomSubarray\recursionDP.cpp" />
+    <ClCompile Include="sliding window\220_containsdupIII\slidingwindow_multiset.cpp" />
     <ClCompile Include="sliding window\424_freqChar\slidewindow.cpp" />
     <ClCompile Include="sliding window\713_maxProductSubarray\slidewindow.cpp" />
     <ClCompile Include="sweepline\1094_carPooling\bruteForce.cpp" />
@@ -228,6 +235,9 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\..\Desktop\leetcode\913_dfs.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="graph\bipartite-matching\bipartite-matching.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
