@@ -327,7 +327,13 @@
     <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\2662_shortestPthSpecialRoads\dijkstra.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="recursion_DP\1349_maxStudentTakeExam\dp_Bitmask.cpp">
+    <ClCompile Include="graph\bipartite-matching\1349_maxStudentsTakeExam\dp_Bitmask.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graph\bipartite-matching\1349_maxStudentsTakeExam\Hungarian_bfs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graph\bipartite-matching\1349_maxStudentsTakeExam\Hungarian_dfs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

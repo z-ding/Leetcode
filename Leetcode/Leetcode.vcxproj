@@ -139,6 +139,8 @@
     <ClCompile Include="graph\binaryTree\235_lca\dfs.cpp" />
     <ClCompile Include="graph\binaryTree\450_deleteNodeInBST\recursion.cpp" />
     <ClCompile Include="graph\binaryTree\783_minDisBST\inorder.cpp" />
+    <ClCompile Include="graph\bipartite-matching\1349_maxStudentsTakeExam\Hungarian_bfs.cpp" />
+    <ClCompile Include="graph\bipartite-matching\1349_maxStudentsTakeExam\Hungarian_dfs.cpp" />
     <ClCompile Include="graph\longest_path_tree\2246_longestPathWithDifferenctChar\dfs.cpp" />
     <ClCompile Include="graph\other\1377_frogposition\dfs.cpp" />
     <ClCompile Include="graph\other\2477_minFuelCost\dfs.cpp" />
@@ -179,7 +181,7 @@
     <ClCompile Include="heap\378_KthSmallInSortedMat\heap.cpp" />
     <ClCompile Include="heap\621_taskScheduler\twoHeaps.cpp" />
     <ClCompile Include="heap\630_courseSchedule\heap.cpp" />
-    <ClCompile Include="recursion_DP\1349_maxStudentTakeExam\dp_Bitmask.cpp" />
+    <ClCompile Include="graph\bipartite-matching\1349_maxStudentsTakeExam\dp_Bitmask.cpp" />
     <ClCompile Include="recursion_DP\2585_waysEarnPoints\recursion.cpp" />
     <ClCompile Include="recursion_DP\464_canIWin\dfs.cpp" />
     <ClCompile Include="recursion_DP\MaxSubArrayProblems\395_longestSubstringRepeatedchar\recursion1.cpp" />
