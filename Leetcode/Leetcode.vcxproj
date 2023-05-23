@@ -139,6 +139,7 @@
     <ClCompile Include="graph\binaryTree\235_lca\dfs.cpp" />
     <ClCompile Include="graph\binaryTree\450_deleteNodeInBST\recursion.cpp" />
     <ClCompile Include="graph\binaryTree\783_minDisBST\inorder.cpp" />
+    <ClCompile Include="graph\bipartite-matching\1349_maxStudentsTakeExam\edmondkarp.cpp" />
     <ClCompile Include="graph\bipartite-matching\1349_maxStudentsTakeExam\Hungarian_bfs.cpp" />
     <ClCompile Include="graph\bipartite-matching\1349_maxStudentsTakeExam\Hungarian_dfs.cpp" />
     <ClCompile Include="graph\longest_path_tree\2246_longestPathWithDifferenctChar\dfs.cpp" />
@@ -158,6 +159,7 @@
     <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\2577_minTime\dijkstra.cpp" />
     <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\2646_minCostTrips\dijkstra_dp.cpp" />
     <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\2662_shortestPthSpecialRoads\dijkstra.cpp" />
+    <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\2699_modifyGraphEdgeWeights.cpp" />
     <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\743._NetworkDelayTime\dijkstra.cpp" />
     <ClCompile Include="graph\shortest_path\787_CheapestFlightsWithinKStops\bfs.cpp" />
     <ClCompile Include="graph\shortest_path\787_CheapestFlightsWithinKStops\dfs_pruning.cpp" />
@@ -177,11 +179,13 @@
     <ClCompile Include="graph\unionfind\1697_pathQueries\unionfind.cpp" />
     <ClCompile Include="graph\unionfind\2421_numberOfGoodPaths\unionfind.cpp" />
     <ClCompile Include="graph\unionfind\778_swinInRisingWater\unionFind.cpp" />
+    <ClCompile Include="heap\1353_maxEvents\minheap.cpp" />
     <ClCompile Include="heap\355_designTwitter\heap.cpp" />
     <ClCompile Include="heap\378_KthSmallInSortedMat\heap.cpp" />
     <ClCompile Include="heap\621_taskScheduler\twoHeaps.cpp" />
     <ClCompile Include="heap\630_courseSchedule\heap.cpp" />
     <ClCompile Include="graph\bipartite-matching\1349_maxStudentsTakeExam\dp_Bitmask.cpp" />
+    <ClCompile Include="recursion_DP\1799_maxscoreGCD\dp_bitmask.cpp" />
     <ClCompile Include="recursion_DP\2585_waysEarnPoints\recursion.cpp" />
     <ClCompile Include="recursion_DP\464_canIWin\dfs.cpp" />
     <ClCompile Include="recursion_DP\MaxSubArrayProblems\395_longestSubstringRepeatedchar\recursion1.cpp" />

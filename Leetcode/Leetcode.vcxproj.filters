@@ -336,6 +336,18 @@
     <ClCompile Include="graph\bipartite-matching\1349_maxStudentsTakeExam\Hungarian_dfs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="graph\bipartite-matching\1349_maxStudentsTakeExam\edmondkarp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="heap\1353_maxEvents\minheap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="recursion_DP\1799_maxscoreGCD\dp_bitmask.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\2699_modifyGraphEdgeWeights.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\..\Desktop\leetcode\913_dfs.jpg">
