@@ -164,6 +164,7 @@
     <ClCompile Include="graph\shortest_path\787_CheapestFlightsWithinKStops\bfs.cpp" />
     <ClCompile Include="graph\shortest_path\787_CheapestFlightsWithinKStops\dfs_pruning.cpp" />
     <ClCompile Include="graph\shortest_path\847_shortestPathToAllNode\bfs_bit.cpp" />
+    <ClCompile Include="graph\strongly_connected_components\1192_criticalEdges\tarjan.cpp" />
     <ClCompile Include="graph\topological_sort\2115_findAllPossibleRecipe\bfs.cpp" />
     <ClCompile Include="graph\topological_sort\2115_findAllPossibleRecipe\dfs.cpp" />
     <ClCompile Include="graph\topological_sort\802_findSafeState\bfs.cpp" />
@@ -185,6 +186,7 @@
     <ClCompile Include="heap\621_taskScheduler\twoHeaps.cpp" />
     <ClCompile Include="heap\630_courseSchedule\heap.cpp" />
     <ClCompile Include="graph\bipartite-matching\1349_maxStudentsTakeExam\dp_Bitmask.cpp" />
+    <ClCompile Include="heap\767_reorgString\maxheap.cpp" />
     <ClCompile Include="recursion_DP\1799_maxscoreGCD\dp_bitmask.cpp" />
     <ClCompile Include="recursion_DP\2585_waysEarnPoints\recursion.cpp" />
     <ClCompile Include="recursion_DP\464_canIWin\dfs.cpp" />

@@ -348,6 +348,12 @@
     <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\2699_modifyGraphEdgeWeights.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="heap\767_reorgString\maxheap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graph\strongly_connected_components\1192_criticalEdges\tarjan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\..\Desktop\leetcode\913_dfs.jpg">
