@@ -152,6 +152,7 @@
     <ClCompile Include="graph\shortest_path\126_wordLadderII\wildcard_bfs.cpp" />
     <ClCompile Include="graph\shortest_path\2608_shotestCycleUndiGraph\Source.cpp" />
     <ClCompile Include="graph\shortest_path\2617_minNumberVisitedCells\bfs_set.cpp" />
+    <ClCompile Include="graph\shortest_path\864_shortestPathGetAllKey.cpp" />
     <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\1334_Mindistallcities\dikstra.cpp" />
     <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\1334_Mindistallcities\FloydWarshall.cpp" />
     <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\1368_minOpReachBottom\dijkstra.cpp" />

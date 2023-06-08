@@ -354,6 +354,9 @@
     <ClCompile Include="graph\strongly_connected_components\1192_criticalEdges\tarjan.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="graph\shortest_path\864_shortestPathGetAllKey.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\..\Desktop\leetcode\913_dfs.jpg">
