@@ -143,6 +143,7 @@
     <ClCompile Include="graph\bipartite-matching\1349_maxStudentsTakeExam\Hungarian_bfs.cpp" />
     <ClCompile Include="graph\bipartite-matching\1349_maxStudentsTakeExam\Hungarian_dfs.cpp" />
     <ClCompile Include="graph\longest_path_tree\2246_longestPathWithDifferenctChar\dfs.cpp" />
+    <ClCompile Include="graph\MST\1584_mincostConnect\MST.cpp" />
     <ClCompile Include="graph\other\1377_frogposition\dfs.cpp" />
     <ClCompile Include="graph\other\2477_minFuelCost\dfs.cpp" />
     <ClCompile Include="graph\other\2477_minFuelCost\indegree_bfsFromLeaf.cpp" />
@@ -152,7 +153,7 @@
     <ClCompile Include="graph\shortest_path\126_wordLadderII\wildcard_bfs.cpp" />
     <ClCompile Include="graph\shortest_path\2608_shotestCycleUndiGraph\Source.cpp" />
     <ClCompile Include="graph\shortest_path\2617_minNumberVisitedCells\bfs_set.cpp" />
-    <ClCompile Include="graph\shortest_path\864_shortestPathGetAllKey.cpp" />
+    <ClCompile Include="graph\shortest_path\864_shortestPathGetAllKeys\bfs_dir.cpp" />
     <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\1334_Mindistallcities\dikstra.cpp" />
     <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\1334_Mindistallcities\FloydWarshall.cpp" />
     <ClCompile Include="graph\shortest_path\Dijkstra+Floyd\1368_minOpReachBottom\dijkstra.cpp" />
@@ -181,6 +182,7 @@
     <ClCompile Include="graph\unionfind\1697_pathQueries\unionfind.cpp" />
     <ClCompile Include="graph\unionfind\2421_numberOfGoodPaths\unionfind.cpp" />
     <ClCompile Include="graph\unionfind\778_swinInRisingWater\unionFind.cpp" />
+    <ClCompile Include="graph\unionfind\990_satisdyEquations\uf.cpp" />
     <ClCompile Include="heap\1353_maxEvents\minheap.cpp" />
     <ClCompile Include="heap\355_designTwitter\heap.cpp" />
     <ClCompile Include="heap\378_KthSmallInSortedMat\heap.cpp" />
@@ -188,8 +190,10 @@
     <ClCompile Include="heap\630_courseSchedule\heap.cpp" />
     <ClCompile Include="graph\bipartite-matching\1349_maxStudentsTakeExam\dp_Bitmask.cpp" />
     <ClCompile Include="heap\767_reorgString\maxheap.cpp" />
+    <ClCompile Include="recursion_DP\1569_reorder_BST\divideconquer.cpp" />
     <ClCompile Include="recursion_DP\1799_maxscoreGCD\dp_bitmask.cpp" />
     <ClCompile Include="recursion_DP\2585_waysEarnPoints\recursion.cpp" />
+    <ClCompile Include="recursion_DP\2713_maxStepIncreasing\recursion.cpp" />
     <ClCompile Include="recursion_DP\464_canIWin\dfs.cpp" />
     <ClCompile Include="recursion_DP\MaxSubArrayProblems\395_longestSubstringRepeatedchar\recursion1.cpp" />
     <ClCompile Include="recursion_DP\MaxSubArrayProblems\395_longestSubstringRepeatedchar\recursion2.cpp" />

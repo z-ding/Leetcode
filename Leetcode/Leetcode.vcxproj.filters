@@ -354,7 +354,19 @@
     <ClCompile Include="graph\strongly_connected_components\1192_criticalEdges\tarjan.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="graph\shortest_path\864_shortestPathGetAllKey.cpp">
+    <ClCompile Include="graph\shortest_path\864_shortestPathGetAllKeys\bfs_dir.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="recursion_DP\2713_maxStepIncreasing\recursion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graph\unionfind\990_satisdyEquations\uf.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="recursion_DP\1569_reorder_BST\divideconquer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graph\MST\1584_mincostConnect\MST.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
