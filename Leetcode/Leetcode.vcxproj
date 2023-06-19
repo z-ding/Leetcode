@@ -190,10 +190,12 @@
     <ClCompile Include="heap\630_courseSchedule\heap.cpp" />
     <ClCompile Include="graph\bipartite-matching\1349_maxStudentsTakeExam\dp_Bitmask.cpp" />
     <ClCompile Include="heap\767_reorgString\maxheap.cpp" />
+    <ClCompile Include="recursion_DP\1187_makeArrayStrictlyIncreasing\recursion.cpp" />
     <ClCompile Include="recursion_DP\1569_reorder_BST\divideconquer.cpp" />
     <ClCompile Include="recursion_DP\1799_maxscoreGCD\dp_bitmask.cpp" />
     <ClCompile Include="recursion_DP\2585_waysEarnPoints\recursion.cpp" />
     <ClCompile Include="recursion_DP\2713_maxStepIncreasing\recursion.cpp" />
+    <ClCompile Include="recursion_DP\2742_paitingWalls\knapsack.cpp" />
     <ClCompile Include="recursion_DP\464_canIWin\dfs.cpp" />
     <ClCompile Include="recursion_DP\MaxSubArrayProblems\395_longestSubstringRepeatedchar\recursion1.cpp" />
     <ClCompile Include="recursion_DP\MaxSubArrayProblems\395_longestSubstringRepeatedchar\recursion2.cpp" />
