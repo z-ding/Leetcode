@@ -148,6 +148,7 @@
     <ClCompile Include="graph\other\1377_frogposition\dfs.cpp" />
     <ClCompile Include="graph\other\2477_minFuelCost\dfs.cpp" />
     <ClCompile Include="graph\other\2477_minFuelCost\indegree_bfsFromLeaf.cpp" />
+    <ClCompile Include="graph\other\322_reconstructItenary\dfs.cpp" />
     <ClCompile Include="graph\segmentTree\327_countRangeSum\segTree.cpp" />
     <ClCompile Include="graph\segmentTree\493_reversePairs\segtree.cpp" />
     <ClCompile Include="graph\segmentTree\732_myCalIII\SegTree.cpp" />
@@ -181,6 +182,7 @@
     <ClCompile Include="graph\trie\212_wordSearchII\trieJs.cpp" />
     <ClCompile Include="graph\unionfind\1579_MaxEdgeRemove_Template\UF.cpp" />
     <ClCompile Include="graph\unionfind\1697_pathQueries\unionfind.cpp" />
+    <ClCompile Include="graph\unionfind\1970_lastdaycrosswater\unionfind.cpp" />
     <ClCompile Include="graph\unionfind\2421_numberOfGoodPaths\unionfind.cpp" />
     <ClCompile Include="graph\unionfind\778_swinInRisingWater\unionFind.cpp" />
     <ClCompile Include="graph\unionfind\990_satisdyEquations\uf.cpp" />

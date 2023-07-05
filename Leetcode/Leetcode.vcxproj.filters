@@ -378,6 +378,12 @@
     <ClCompile Include="graph\MST\1479_criticalPseudocritical\mst.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="graph\other\322_reconstructItenary\dfs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graph\unionfind\1970_lastdaycrosswater\unionfind.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\..\Desktop\leetcode\913_dfs.jpg">
