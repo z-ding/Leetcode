@@ -384,6 +384,9 @@
     <ClCompile Include="graph\unionfind\1970_lastdaycrosswater\unionfind.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="graph\euler_path\2097_rearrangePaths\hierhoz.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\..\Desktop\leetcode\913_dfs.jpg">

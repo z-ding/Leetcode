@@ -142,6 +142,7 @@
     <ClCompile Include="graph\bipartite-matching\1349_maxStudentsTakeExam\edmondkarp.cpp" />
     <ClCompile Include="graph\bipartite-matching\1349_maxStudentsTakeExam\Hungarian_bfs.cpp" />
     <ClCompile Include="graph\bipartite-matching\1349_maxStudentsTakeExam\Hungarian_dfs.cpp" />
+    <ClCompile Include="graph\euler_path\2097_rearrangePaths\hierhoz.cpp" />
     <ClCompile Include="graph\longest_path_tree\2246_longestPathWithDifferenctChar\dfs.cpp" />
     <ClCompile Include="graph\MST\1479_criticalPseudocritical\mst.cpp" />
     <ClCompile Include="graph\MST\1584_mincostConnect\MST.cpp" />
