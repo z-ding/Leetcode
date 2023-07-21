@@ -390,6 +390,9 @@
     <ClCompile Include="recursion_DP\1125_smallestsuffteam\dp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="graph\topological_sort\1203_taskorderdependancy\topological.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\..\Desktop\leetcode\913_dfs.jpg">
