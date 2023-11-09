@@ -393,6 +393,12 @@
     <ClCompile Include="graph\topological_sort\1203_taskorderdependancy\topological.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="graph\lazySegTree\2916_SubarrayDIstinct\lazysegtree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graph\fenwickTree\2926_maxbalancedSum\fenwick.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\..\Desktop\leetcode\913_dfs.jpg">
