@@ -71,6 +71,7 @@ public:
             //find the biggest idx j where j< i && prefix[j] <= upperbound
             int idx = -1;
             bsearch(root, 0, i - 1, upperbound, idx, prefix);
+
             if (idx != -1) res = min(res, i - idx);
         }
         if (res == 1000000) return -1;
