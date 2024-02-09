@@ -8,7 +8,7 @@ public:
         UF(int n) {
             for (int i = 0; i <= n; i++) {
                 par.push_back(i);
-                rank.push_back(0);
+                rank.push_back(1);
             }
             seperate = n;
         }
